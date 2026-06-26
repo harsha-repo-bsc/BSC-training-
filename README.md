@@ -1,5 +1,7 @@
 ﻿# BSC Training for Jr AI Engineer
 
+first day of training 
+
 This is a simple note about what I learned in this training.
 
 I learned how to use Python in Jupyter Notebook and how to run basic code.
