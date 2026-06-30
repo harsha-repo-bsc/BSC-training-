@@ -1,6 +1,6 @@
 ﻿# BSC Training for Jr AI Engineer
 
-first day of training 
+first day of training 26-06-26
 
 This is a simple note about what I learned in this training.
 
